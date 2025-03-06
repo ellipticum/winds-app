@@ -1,0 +1,31 @@
+.projectRows {
+  min-width: 1400px;
+  padding: 11px 10px;
+}
+
+.columns {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: 110px 3fr 1fr 1fr 1fr 1fr;
+  padding: 0 0 12px;
+  border-bottom: 1px solid var(--color-primary-15);
+}
+
+.columnName {
+  font-size: 14px;
+  color: var(--color-secondary-10);
+}
+
+.projectName {
+  padding: 12px;
+  border-right: 1px solid var(--color-primary-15);
+  width: fit-content;
+  min-height: 43px;
+  max-height: 43px;
+}
+
+.breadcrumbs {
+  font-size: 18px;
+  background: var(--color-primary-5);
+  border-bottom: 1px solid var(--color-primary-15);
+}

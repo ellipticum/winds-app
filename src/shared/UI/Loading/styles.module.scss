@@ -1,0 +1,23 @@
+.content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  max-height: 100vh;
+  flex: 1;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: var(--color-primary-10-transparent-60);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 200ms all ease-in-out;
+  backdrop-filter: blur(2px);
+
+  &.hidden {
+    opacity: 0;
+    pointer-events: none;
+  }
+}

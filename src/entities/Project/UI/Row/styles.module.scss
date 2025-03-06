@@ -1,0 +1,60 @@
+.row {
+  &:not(.editable) {
+    & .fields {
+      border-bottom: 1px solid var(--color-primary-15);
+    }
+  }
+}
+
+.fields {
+  display: grid;
+  gap: 16px;
+  padding: 12px 0;
+  grid-template-columns: 110px 3fr 1fr 1fr 1fr 1fr;
+}
+
+.level {
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-left: var(--indent);
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  gap: 10px;
+  padding: 6px;
+  border-radius: 6px;
+
+  &:hover {
+    background: var(--color-primary-15);
+
+    .removeButtonWrapper {
+      opacity: 100%;
+      pointer-events: all;
+    }
+  }
+}
+
+.removeButtonWrapper {
+  opacity: 0;
+  pointer-events: none;
+  transition: 200ms all ease-in-out;
+}
+
+.fieldValue {
+  border: 1px solid transparent;
+  height: 36px;
+  padding: 10px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
+
+.loaderWrapper {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
