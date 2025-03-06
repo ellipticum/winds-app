@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03420462-e7d3-4910-82dc-2e51846e1c33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/vector/apps.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/vector/share.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/UI/Loader/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/UI/Loader/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/UI/Loading/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/UI/Loading/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/styles/_fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/styles/_globals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/styles/_normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/styles/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/styles/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/file.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/globe.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/window.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +72,7 @@
       <workItem from="1741158610509" duration="13971000" />
       <workItem from="1741179001279" duration="378000" />
       <workItem from="1741179397768" duration="137000" />
-      <workItem from="1741179541187" duration="27201000" />
+      <workItem from="1741179541187" duration="27390000" />
     </task>
     <servers />
   </component>
